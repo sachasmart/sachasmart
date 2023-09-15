@@ -2,13 +2,11 @@
 <h3 font-size="20" align="center">A passionate Full Stack developer and DevOps engineer from Canada.</h3>
 
 
-- 🌱 I’m currently learning **about Substrate and DevOPs** in my Homelab <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 🔗 I’m looking to collaborate on **Web3 Projects**
+- 🌱 Founder of __[Terrafir](https://www.terrafir.com)__ - a Cloud Security and Resource Provisioning platform. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👨‍💻 I currently work for __[Weavik Development](https://github.com/sachasmart-weavik)__
 
-- 💬 Ask me about **my Homelab😆**
+- 💬 Ask me about **my Homelab😆** - [Terrafir](https://www.terrafir.com) is __completely self-hosted!__
 
 - ⚡ **Coding is a passion and a profession**
 
@@ -80,10 +78,6 @@
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
 </p>
 
 <h3 align="center">Database</h3>
@@ -95,6 +89,14 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"/> 
+  </a>
+  <a href="https://influxdb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"
+      alt="Influxdb"/> 
+  </a>
+  <a href="https://ipfs.tech/" target="_blank"> 
+    <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white"
+      alt="IPFS"/> 
   </a>
   <a href="https://ipfs.tech/" target="_blank"> 
     <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white"
@@ -115,8 +117,8 @@
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a>
-  <a href="https://rancher.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher"/>
+  <a href="https://www.terraform.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/> 
   </a>
   <a href="https://grafana.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Grafana"/> 
@@ -124,12 +126,16 @@
   <a href="https://www.ansible.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="ansible"/> 
   </a>
-  <a href="https://www.terraform.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/> 
+  <a href="https://prometheus.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/> 
   </a>
   <a href="https://www.packer.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF" alt="packer"/> 
-  </a>
+  </a> 
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+      alt="nginx"/> 
+  </a> 
   <a href="https://www.openfaas.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/OpenFaaS-3B5EE9.svg?style=for-the-badge&logo=OpenFaaS&logoColor=white" alt="OpenFaas"/> 
   </a>
@@ -141,6 +147,16 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+</p>
+
+<h3 align="center">Clouds</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
+  </a>
+  <a href="https://cloud.google.com/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   </a>
 </p>
 
@@ -163,7 +179,12 @@
     <a  href="https://linkedin.com/in/sachasmart" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
+    <h5>Portfolio</h5>
     <a  href="https://www.sachasmart.com/" target="_blank">
+      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="personal website"/>
+    </a>
+    <h5>Terrafir</h5>
+    <a  href="https://www.terrafir.com/" target="_blank">
       <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="personal website"/>
     </a>
 </div>
