@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Sacha Smart<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Full Stack developer and DevOps engineer from Canada.</h3>
 
+- 🌱 Founder of **[Terrafir](https://www.terrafir.com)** - a Cloud Security and Resource Provisioning platform.
 
-- 🌱 Founder of __[Terrafir](https://www.terrafir.com)__ - a Cloud Security and Resource Provisioning platform. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 👨‍💻 I currently work for **[Weavik Development](https://github.com/sachasmart-weavik)**
 
-- 👨‍💻 I currently work for __[Weavik Development](https://github.com/sachasmart-weavik)__
-
-- 💬 Ask me about **my Homelab😆** - [Terrafir](https://www.terrafir.com) is __completely self-hosted!__
+- 💬 Ask me about **my Homelab😆** - [Terrafir](https://www.terrafir.com) is **completely self-hosted!**
 
 - ⚡ **Coding is a passion and a profession**
 
@@ -29,7 +28,6 @@
       alt="python"/>
   </a>
 </p>
-
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -167,8 +165,7 @@
   </a>
 </p>
 
-
-----
+---
 
 <h3 align="center">Connect with me</h3>
 
