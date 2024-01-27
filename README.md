@@ -181,4 +181,8 @@
     <a  href="https://www.terrafir.com/" target="_blank">
       <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="personal website"/>
     </a>
+    <h5>Homelab</h5>
+    <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
+      <img src="https://uptime.sachasmart.com/api/badge/6/uptime" alt="personal website"/>
+    </a>
 </div>
