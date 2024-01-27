@@ -179,6 +179,10 @@
     </a>
     <h5>Terrafir</h5>
     <a  href="https://www.terrafir.com/" target="_blank">
-      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="personal website"/>
+      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="Terrafir"/>
+    </a>
+    <h5>Homelab</h5>
+    <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
+      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="Homelab services"/>
     </a>
 </div>
