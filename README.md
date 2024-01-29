@@ -120,10 +120,6 @@
   <a href="https://prometheus.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/> 
   </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
   <a href="https://www.packer.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF" alt="packer"/> 
   </a> 
@@ -183,10 +179,6 @@
     </a>
     <h5>Homelab</h5>
     <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
-      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="Homelab services"/>
-    </a>
-    <h5>Homelab</h5>
-    <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
-      <img src="https://uptime.sachasmart.com/api/badge/6/uptime" alt="personal website"/>
+      <img src="https://uptime.sachasmart.com/api/badge/6/uptime" alt="homelab"/>
     </a>
 </div>
