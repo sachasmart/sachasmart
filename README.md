@@ -43,14 +43,6 @@
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"
       alt="vuetify"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
 </p>
 
 <h3 align="center">Backend</h3>
@@ -84,14 +76,6 @@
   <a href="https://influxdb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"
       alt="Influxdb"/> 
-  </a>
-  <a href="https://ipfs.tech/" target="_blank"> 
-    <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white"
-      alt="IPFS"/> 
-  </a>
-  <a href="https://ipfs.tech/" target="_blank"> 
-    <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white"
-      alt="IPFS"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -151,16 +135,6 @@
   </a>
 </p>
 
-<h3 align="center">Web3 Deployments</h3>
-<p align="center">
-  <a href="https://testnet.aurorascan.dev/address/0xe2803904a00C26406ed79dd526A61b03207054b5" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Aurora"/>
-  </a>
-  <a href="https://testnet.aurorascan.dev/address/0x25190908c3e1c75be8f5cb248425d8c09ed02e22" target="_blank">
-    <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin Relay"/>
-  </a>
-</p>
-
 ---
 
 <h3 align="center">Connect with me</h3>
@@ -171,11 +145,11 @@
     </a>
     <h5>Portfolio</h5>
     <a  href="https://www.sachasmart.com/" target="_blank">
-      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="personal website"/>
+      <img src="https://uptime.sachasmart.com/api/badge/32/uptime" alt="personal website"/>
     </a>
     <h5>Terrafir</h5>
     <a  href="https://www.terrafir.com/" target="_blank">
-      <img src="https://napkin-examples.npkn.net/site-status-badge/" alt="Terrafir"/>
+      <img src="https://uptime.sachasmart.com/api/badge/72/uptime" alt="Terrafir"/>
     </a>
     <h5>Homelab</h5>
     <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
