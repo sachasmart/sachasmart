@@ -3,7 +3,7 @@
 
 - 🌱 Founder of **[Terrafir](https://www.terrafir.com)** - a Cloud Security and Resource Provisioning platform.
 
-- 👨‍💻 I currently work for **[Weavik Development](https://github.com/sachasmart-weavik)**
+- 👨‍💻 I currently work for **[Dialogue](https://www.dialogue.co/)**
 
 - 💬 Ask me about **my Homelab😆** - [Terrafir](https://www.terrafir.com) is **completely self-hosted!**
 
