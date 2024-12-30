@@ -145,14 +145,14 @@
     </a>
     <h5>Portfolio</h5>
     <a  href="https://www.sachasmart.com/" target="_blank">
-      <img src="https://uptime.sachasmart.com/api/badge/32/uptime" alt="personal website"/>
+      <img src="https://uptime.sachasmart.com/api/v1/endpoints/external_portfolio/health/badge.svg" alt="personal website"/>
     </a>
     <h5>Terrafir</h5>
     <a  href="https://www.terrafir.com/" target="_blank">
-      <img src="https://uptime.sachasmart.com/api/badge/72/uptime" alt="Terrafir"/>
+      <img src="https://uptime.sachasmart.com/api/v1/endpoints/terrafir_terrafir-website/health/badge.svg" alt="Terrafir"/>
     </a>
     <h5>Homelab</h5>
     <a  href="https://uptime.sachasmart.com/status/homelab" target="_blank">
-      <img src="https://uptime.sachasmart.com/api/badge/6/uptime" alt="homelab"/>
+      <img src="https://uptime.sachasmart.com/api/v1/endpoints/external_homelab-dns/health/badge.svg" alt="homelab"/>
     </a>
 </div>
